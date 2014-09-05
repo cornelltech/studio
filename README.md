@@ -15,3 +15,7 @@ Ample time is also given for the students to make concentrated progress on their
 * Bottleneck analysis
 * Performance analysis
 * Test-driven development
+
+## Grading
+
+This practicum is graded S/U. Attendance and participation are required. Students are allowed one unexcused absence.
