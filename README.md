@@ -4,4 +4,4 @@
 
 **Studio:** An interactive space that encourages effective communication design through creative thinking, integrative collaboration, and visual thinking.
 
-Refer to the Studio [wiki] (https://github.com/cornelltech/studio/wiki) for more information.
+Refer to the Cornell Tech Studio [wiki] (https://github.com/cornelltech/studio/wiki) for more information.
